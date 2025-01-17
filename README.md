@@ -1,8 +1,7 @@
 <h1>#Ecommerce clone</h1>
 <h4>* First Image</h4>
 
-![Screenshot (110)](https://github.com/user-attachments/assets/3e23a403-eb6f-475c-a761-8011edad8472)
-
+![Screenshot (118)](https://github.com/user-attachments/assets/442dbaae-5cec-4d46-a0f7-720cd3cb8a43)
 
 <h4>* Second Image</h4>
 
